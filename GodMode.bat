@@ -1,4 +1,5 @@
 @echo off
+@title GodMode
 setlocal
 
 set APP=GodMode
