@@ -50,6 +50,7 @@ if not exist %godmode_folder% (
 		pause
 		goto ENDBAT
 	)
+	attrib +h %godmode_folder%
 	cls
 	echo.
 	color 0A
